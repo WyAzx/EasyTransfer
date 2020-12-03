@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 #please download dataset from tianchi 
-tar -zxf tianchi_datasets.tgz
-rm *.tgz
+#tar -zxf tianchi_datasets.tgz
+#rm *.tgz
 
 for TASK_NAME in TNEWS OCEMOTION OCNLI
 do
